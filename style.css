@@ -1,7 +1,7 @@
 .tout 
 {
   width:1500px;
-  background-color : #ee7621 ;
+  background-color : #F1CD44 ;
   text-align : center ;
   align-content :center;
   white-space: nowrap;
@@ -11,7 +11,7 @@
 {
   width : 940px;
   margin : 0 auto;
-  background-color : #8BC095 ;
+  background-color : #BCE18D ;
   text-align : center ;
   align-content :center;
   font-family: 'Gasoek One', sans-serif;
@@ -22,7 +22,7 @@
 {
   width : 940px;
   margin : 0 auto;
-  background-color : #ee7621 ;
+  background-color : #F1CD44 ;
   text-align : center ;
   align-content :center;
   font-family: 'Caladea', serif;
@@ -33,7 +33,7 @@
 {
   width : 940px;
   margin : 0 auto;
-  background-color : #8BC095 ;
+  background-color : #BCE18D ;
   text-align : center ;
   align-content :center;
   font-family: 'Caladea', serif;
@@ -45,7 +45,7 @@
   display: inline-block;
   padding: 20px 90px;
   color: #000000;
-  background-color : #8BC095 ;
+  background-color : #BCE18D ;
   text-decoration: none;
   font-family: 'Caladea', serif;
   font-size:medium
@@ -64,7 +64,7 @@
 {
   width : 940px;
   margin : 0 auto;
-  background-color : #8BC095 ;
+  background-color : #BCE18D ;
   text-align : center ;
   align-content :center;
   font-family: 'Caladea', serif;
@@ -75,7 +75,7 @@
 .fin
 {
   width:1500px;
-  background-color : #ee7621 ;
+  background-color : #F1CD44 ;
   text-align : center ;
   align-content :center;
   white-space: nowrap;
