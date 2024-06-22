@@ -1,0 +1,85 @@
+.tout 
+{
+  width:1500px;
+  background-color : #F4A460 ;
+  text-align : center ;
+  align-content :center;
+  white-space: nowrap;
+}
+
+.texte1
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : #8BC095 ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Gasoek One', sans-serif;
+  font-size:xx-large
+}
+
+.niveaux
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : #F4A460 ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Caladea', serif;
+  font-size:medium
+}
+
+.texte3
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : #8BC095 ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Caladea', serif;
+  font-size:medium
+}
+
+
+.bouton-niveaux {
+  display: inline-block;
+  padding: 20px 90px;
+  color: #000000;
+  background-color : #8BC095 ;
+  text-decoration: none;
+  font-family: 'Caladea', serif;
+  font-size:medium
+}
+
+  border: none;
+  font-size:x-small
+  border-radius: 4px;
+}
+
+.bouton-deezer:hover {
+  background-color: #000000 ;
+}
+
+.progression
+{
+  width : 940px;
+  margin : 0 auto;
+  background-color : #8BC095 ;
+  text-align : center ;
+  align-content :center;
+  font-family: 'Caladea', serif;
+  font-size:medium
+}
+
+
+.fin
+{
+  width:1500px;
+  background-color : #F4A460 ;
+  text-align : center ;
+  align-content :center;
+  white-space: nowrap;
+}
+
+
+}
