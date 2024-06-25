@@ -59,7 +59,15 @@
   font-family: 'Caladea', serif;
   font-size:medium
 }
-
+.tuto{
+  display: inline-block;
+  padding: 5px 90px;
+  color: #000000;
+  background-color : #8BC095 ;
+  text-decoration: none;
+  font-family: 'Gasoek One', sans-serif;
+  font-size:medium
+}
   border: none;
   font-size:x-small
   border-radius: 4px;
